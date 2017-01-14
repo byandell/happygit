@@ -16,3 +16,9 @@ Testthat package praise: see github for hadley/testthat
 *** Git client: [SourceTree](https://www.sourcetreeapp.com/) or [GitCracken](https://www.gitkraken.com/)  
 See <http://happygitwithr.com/git-client.html>  
 <http://happygitwithr.com/new-github-first.html>   
+<http://starlogs.net>  
+
+[Rmarkdown](http://happygitwithr.com/rmd-test-drive.html):
+- output: md_document
+- output: github_document
+
