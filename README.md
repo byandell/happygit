@@ -2,7 +2,7 @@
 
 Happy Git practice with Jenny Bryan
 
-These are notes from the talk today.
+These are notes from the talk today. Modest change on repo here.
 
 [Git for humans alice bartlett](https://speakerdeck.com/alicebartlett/git-for-humans)  
 https://gist.github.com/alicebartlett  
