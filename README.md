@@ -29,4 +29,13 @@ CSV and TSV easily browsable on github
 student readme.md as index.html  
 github gapminder ugliness: data-raw  
 activate github settings  
-Your site is ready to be published at <https://byandell.github.io/happygit/>. 
+Your site is ready to be published at <https://byandell.github.io/happygit/>.  
+
+github does PNG diffs  
+library(gapminder)-- switching from gdata to readxl & readr  
+readxl brings in proper NA for blanks; gdata does not  
+
+machine readable & human readable projects  
+
+collaboration (see Alice Bartlett slides)  
+remote, clone, push, pull  
