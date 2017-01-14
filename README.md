@@ -19,6 +19,14 @@ See <http://happygitwithr.com/git-client.html>
 <http://starlogs.net>  
 
 [Rmarkdown](http://happygitwithr.com/rmd-test-drive.html):
+
 - output: md_document
 - output: github_document
 
+pseudo-website for free  
+<http://happygitwithr.com/repo-browsability.html>  
+CSV and TSV easily browsable on github  
+student readme.md as index.html  
+github gapminder ugliness: data-raw  
+activate github settings  
+Your site is ready to be published at <https://byandell.github.io/happygit/>. 
